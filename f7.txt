@@ -1,5 +1,10 @@
 welcome to world
 digi world
+<<<<<<< Updated upstream
 chennai
 hyderabad
 bangalore
+=======
+new world[D[C
+generation
+>>>>>>> Stashed changes
